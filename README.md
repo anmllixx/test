@@ -46,9 +46,9 @@ cd test
 # 2. Установите зависимости
 flutter pub get
 
-# (Опционально — очистка кеша, если что-то не работает)
-# flutter clean
-# flutter pub get
+(Опционально — очистка кеша, если что-то не работает)
+flutter clean
+flutter pub get
 
 # 3. Запустите приложение
 flutter run
